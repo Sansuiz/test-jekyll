@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-github-metadata
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+remote_theme: ryanfb/jekyll-theme-palaios
+title: All
+url: https://sansuiz.github.io/All
+author:
+  name: SANSUI | XUNYI
+  first_name: SANSUI
+  last_name: XUNYI
+  email: sansui_z@126.com
+  twitter: XIANG_BLQ
+twitter:
+  username: ryanfb
+  card: summary
