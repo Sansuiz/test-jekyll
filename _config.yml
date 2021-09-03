@@ -2,7 +2,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-remote-theme
   - jekyll-seo-tag
-remote_theme: ryanfb/jekyll-theme-palaios
+remote_theme: sansuiz/jekyll-theme-palaios
 title: All
 url: https://sansuiz.github.io/All
 author:
